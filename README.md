@@ -104,8 +104,7 @@ package.json
 
 ## Contributing
 
-Issues and PRs welcome. This is a solo-built portfolio project — see the
-[case study](https://YOUR_PORTFOLIO_URL) for the full build story.
+Issues and PRs welcome. This is a solo-built portfolio project.
 
 ## License
 
