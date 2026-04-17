@@ -104,7 +104,7 @@ package.json
 
 ## Contributing
 
-Issues and PRs welcome. This is a solo-built portfolio project.
+Issues and PRs welcome. This is a solo-built project.
 
 ## License
 
